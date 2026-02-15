@@ -25,4 +25,4 @@ A graphical Sudoku solver built with Python and Tkinter that features both insta
 The solver uses a backtracking algorithm that recursively tries numbers 1-9 in empty cells until a valid solution is found.
 
 ## Author
-[Your Name]
+[Yashwant singh]
